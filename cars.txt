@@ -1,0 +1,4 @@
+Tesla is an electric car.
+Its models include:
+Model 3 compact sedan 
+Model S mid-size luxury sedan
